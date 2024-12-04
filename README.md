@@ -17,7 +17,7 @@ These talks would not have been possible without the tremendous efforts of the a
 
 ```
 @misc{lai24evolutiondiffusionmodels,
-  author = {Lai, Chieh-Hsin},
+  author = {Lai, Chieh-Hsin and Mitsufuji, Yuki},
   title = {Evolution of Diffusion Models: From Birth to Enhanced Accuracy and Efficiency},
   year = {2024},
   journal = {GitHub repository},
