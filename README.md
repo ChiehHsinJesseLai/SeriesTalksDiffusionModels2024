@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eefd44fb-177c-4c7d-86fd-e5f76d71ef59)# Series of Talks on Diffusion Models in 2024
+# Series of Talks on Diffusion Models in 2024
 This repository contains my ([Chieh-Hsin (Jesse) Lai](https://chiehhsinjesselai.github.io/)) slides for a series of talks on Diffusion Models in 2024. 
 
 The content covers the origin of Diffusion Models, the challenges they face (including training inaccuracies, slow sampling, and scalability issues), and our efforts to address these problems. It also explores applications in solving inverse problems and achieving controllable generation with Diffusion Models. Overall, it includes our following works:
