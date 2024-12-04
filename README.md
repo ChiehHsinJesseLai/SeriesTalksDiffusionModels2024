@@ -1,7 +1,14 @@
-# Series of Talks on Diffusion Models in 2024
+![image](https://github.com/user-attachments/assets/eefd44fb-177c-4c7d-86fd-e5f76d71ef59)# Series of Talks on Diffusion Models in 2024
 This repository contains my ([Chieh-Hsin (Jesse) Lai](https://chiehhsinjesselai.github.io/)) slides for a series of talks on Diffusion Models in 2024. 
 
-The content covers the origin of Diffusion Models, the challenges they face (including training inaccuracies, slow sampling, and scalability issues), and our efforts to address these problems. It also explores applications in solving inverse problems and achieving controllable generation with Diffusion Models.
+The content covers the origin of Diffusion Models, the challenges they face (including training inaccuracies, slow sampling, and scalability issues), and our efforts to address these problems. It also explores applications in solving inverse problems and achieving controllable generation with Diffusion Models. Overall, it includes our following works:
+
+- [FP-Diffusion (ICML'23)](https://arxiv.org/abs/2210.04296):
+- [CTM (ICLR'24)](https://consistencytrajectorymodel.github.io/CTM/)
+- [SoundCTM (Preprint'24)](https://koichi-saito-sony.github.io/soundctm/)
+- [PaGoDA (NeurIPS'24)](https://arxiv.org/abs/2405.14822)
+- [GibbsDDRM (ICML'23)](https://arxiv.org/abs/2301.12686)
+- [MPGD (ICLR'24)](https://kellyyutonghe.github.io/mpgd/)
 
 
 
@@ -10,12 +17,12 @@ The content covers the origin of Diffusion Models, the challenges they face (inc
 ## How to cite this PDF:
 
 ```
-@misc{lai24diffusionmodeltutorial,
-  author = {Lai, Chieh-Hsin and Nguyen, Bac and Saito, Koichi and Ermon, Stefano and Mitsufuji, Yuki},
-  title = {From White Noise to Symphony: Diffusion Models for Music and Sound -- ISMIR24 Diffusion Model Tutorial},
+@misc{lai24evolutiondiffusionmodels,
+  author = {Lai, Chieh-Hsin},
+  title = {Evolution of Diffusion Models: From Birth to Enhanced Accuracy and Efficiency},
   year = {2024},
   journal = {GitHub repository},
-  url = {https://github.com/ChiehHsinJesseLai/ismir24-diffusion-tutorial}, 
+  url = {https://github.com/ChiehHsinJesseLai/SeriesTalksDiffusionModels2024}, 
 }
 ```
 
