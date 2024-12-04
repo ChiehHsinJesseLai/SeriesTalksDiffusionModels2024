@@ -3,7 +3,7 @@ This repository contains my ([Chieh-Hsin (Jesse) Lai](https://chiehhsinjesselai.
 
 The content covers the origin of Diffusion Models, the challenges they face (including training inaccuracies, slow sampling, and scalability issues), and our efforts to address these problems. It also explores applications in solving inverse problems and achieving controllable generation with Diffusion Models. Overall, it includes our following works:
 
-- [**FP-Diffusion** (ICML'23)](https://arxiv.org/abs/2210.04296): Improving the density estimation of diffusion models by incorporating underlying partial differential equations.
+- [**FP-Diffusion** (ICML'23)](https://arxiv.org/abs/2210.04296): Improving the density estimation and training accuracy of diffusion models by incorporating underlying partial differential equations.
 - [**CTM** (ICLR'24)](https://consistencytrajectorymodel.github.io/CTM/): A unified framework for diffusion models and distillation-based methods for diverse samplers and one-step SOTA generation.
 - [**SoundCTM** (Preprint'24)](https://koichi-saito-sony.github.io/soundctm/): Extension of CTM to Text-to-Sound Generation with Flexible Sampling.
 - [**PaGoDA** (NeurIPS'24)](https://arxiv.org/abs/2405.14822): A 64x64 pre-trained diffusion model is all you need for one-step high-resolution state-of-the-art generation.
