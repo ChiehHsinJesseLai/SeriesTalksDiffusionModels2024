@@ -1,4 +1,4 @@
-# Series of Talks on Diffusion Models in 2024
+# Evolution of Diffusion Models: From Birth to Enhanced Accuracy and Efficiency
 This repository contains my ([Chieh-Hsin (Jesse) Lai](https://chiehhsinjesselai.github.io/)) slides for a series of talks on Diffusion Models in 2024. 
 
 The content covers the origin of Diffusion Models, the challenges they face (including training inaccuracies, slow sampling, and scalability issues), and our efforts to address these problems. It also explores applications in solving inverse problems and achieving controllable generation with Diffusion Models. Overall, it includes our following works:
